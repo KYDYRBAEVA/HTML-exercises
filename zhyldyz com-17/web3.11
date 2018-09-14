@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang = "en">
+<head>
+<title></title>
+<meta charset = "utf-8">
+</head>
+<body>
+<abbr title="Home work">Hw.</abbr>
+<br /><br />
+<abbr title="Biology">Bio.</abbr>
+<br /><br />
+<abbr title="Example">Ex.</abbr>
+<br /><br />
+<abbr title="Literature">Lit.</abbr>
+<br /><br />
+<abbr title="Mathematics">Math.</abbr>
+<br /><br />
+<acronym title="Music">Mus.</acronym>
+<br /><br />
+<acronym title="Object Oriented Programming">OOP</acronym>
+<br /><br />
+<acronym title="Ecology">
+Eco.
+</a ronym>
+<br /><br />
+<acronym title="Enlish">Eng.</acronym>
+<br /><br />
+</body>
+</html>
